@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Siddhant Yadav 👋
 
-<!--
-**zyeeio/zyeeio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent gap-year scholar, researcher, and builder blending **Theoretical Computer Science, Hardware Engineering, and Social Philosophy**. When I'm not writing algorithms, I'm usually soldering circuits or writing research papers.
 
-Here are some ideas to get you started:
+### 🚀 What I'm doing right now
+- 🤖 Building and programming **Autonomous Rovers** (C++, Arduino, State Machines).
+- 🚁 Designing and assembling custom aerodynamic **Drones**.
+- 🧠 Publishing research on **Spaced Repetition Algorithms** and **Astrophysics** (DOIs on Zenodo).
+- 💻 Grinding Data Structures & Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me & see my work
+- **LeetCode:** [leetcode.com/u/zyeei](https://leetcode.com/u/zyeei/)
+- **Digital Portfolio:** [Link to your new website here!]
+- **Email:** siddhantyadav341@gmail.com
+
+### ⚡ Tech Stack & Tools
+`C++` | `Arduino` | `Robotics/Embedded Systems` | `Web Dev (HTML/CSS)` | `LaTeX` | `Blender (3D)`
