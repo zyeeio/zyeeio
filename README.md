@@ -10,7 +10,7 @@ I'm an independent gap-year scholar, researcher, and builder blending **Theoreti
 
 ### 🌐 Connect with me & see my work
 - **LeetCode:** [leetcode.com/u/zyeei](https://leetcode.com/u/zyeei/)
-- **Digital Portfolio:** [Link to your new website here!]
+- **Digital Portfolio:** [will be ready soon]
 - **Email:** siddhantyadav341@gmail.com
 
 ### ⚡ Tech Stack & Tools
