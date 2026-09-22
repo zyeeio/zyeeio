@@ -7,11 +7,10 @@ I'm an independent gap-year scholar, researcher, and builder blending **Theoreti
 - 🚁 Designing and assembling custom aerodynamic **Drones**.
 - 🧠 Publishing research on **Spaced Repetition Algorithms** and **Astrophysics** (DOIs on Zenodo).
 - 💻 Grinding Data Structures & Algorithms.
-- 🎓 Developed & launched **[StudyPlanner & Academic AI](https://ais-pre-3du2chjnrludclkbyadhd2-5077193188.asia-east1.run.app)** — a full-stack academic productivity platform featuring dynamic timetable generation, focus timers, and Gemini-powered research assistants.
+- 🎓 Developed & launched **[StudyPlanner & Academic AI](https://study-planner-academic-ai-assistant-346255932163.asia-southeast1.run.app)** — a full-stack academic productivity platform featuring dynamic timetable generation, focus timers, and Gemini-powered research assistants.
 
 ### 🌐 Connect with me & see my work
-- **Live Project:** [StudyPlanner AI Assistant](https://ais-pre-3du2chjnrludclkbyadhd2-5077193188.asia-east1.run.app)
-- **GitHub Repository:** [Epoch-AI-study-planner](https://github.com/zyeeio/Epoch-AI-study-planner)
+- **Live Project:** [StudyPlanner AI Assistant](https://study-planner-academic-ai-assistant-346255932163.asia-southeast1.run.app)
 - **LeetCode:** [leetcode.com/u/zyeei](https://leetcode.com/u/zyeei/)
 - **Digital Portfolio:** [will be ready soon]
 - **Email:** siddhantyadav341@gmail.com
