@@ -12,7 +12,7 @@ I'm an independent gap-year scholar, researcher, and builder blending **Theoreti
 ### 🌐 Connect with me & see my work
 - **Live Project:** [StudyPlanner AI Assistant](https://study-planner-academic-ai-assistant-346255932163.asia-southeast1.run.app)
 - **LeetCode:** [leetcode.com/u/zyeei](https://leetcode.com/u/zyeei/)
-- **Digital Portfolio:** [will be ready soon]
+- **Digital Portfolio:** [MyPortfolio](https://siddhant-portfolio-nine.vercel.app)
 - **Email:** siddhantyadav341@gmail.com
 
 ### ⚡ Tech Stack & Tools
